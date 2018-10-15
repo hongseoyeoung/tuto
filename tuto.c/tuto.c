@@ -5,4 +5,8 @@
  *      Author: chosun
  */
 
+#include <stdio.h>
 
+int main(){
+	printf("hello world!");
+}
