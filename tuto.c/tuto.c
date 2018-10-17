@@ -10,4 +10,5 @@
 int main(){
 	printf("hello world!");
 	printf("hhlhldlslg");
+	printf("ssssssss");
 }
